@@ -11,12 +11,10 @@
 
 <script>
 import Logo from '~/components/Logo.vue'
-import IconLink from '~/components/IconLink.vue'
 
 export default {
   components: {
     Logo,
-    IconLink
   }
 }
 </script>

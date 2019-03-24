@@ -1,6 +1,6 @@
 <template>
   <div>
-    <header class="p-3 h-10 w-full absolute block bg-deep text-white flex items-center justify-between">
+    <header class="p-3 h-10 w-full absolute block bg-white text-deep flex items-center justify-between shadow">
       <h1 class="font-serif">CRL</h1>
       <nuxt-link class="text-white text-sm font-serif" to="/"> HOME </nuxt-link>
     </header>

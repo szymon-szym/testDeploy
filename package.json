@@ -1,8 +1,8 @@
 {
-  "name": "codesandbox-nuxt-tailwindcss",
+  "name": "szymon",
   "version": "1.0.0",
-  "description": "Simple Nuxt.js and Tailwind CSS example",
-  "author": "Atinux",
+  "description": "Draw",
+  "author": "Szymon",
   "private": true,
   "scripts": {
     "dev": "nuxt",
